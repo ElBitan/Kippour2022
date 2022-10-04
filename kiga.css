@@ -72,11 +72,18 @@ nav ul li a{
     z-index: -1;
 }
 @media screen and (max-width:1360px){
-    body{
+   body{
+        width:100%;
+      height: 100%;
         background-color: black;
     }
 }
 @media screen and (max-width:900px){
+    body{
+        width:100%;
+      height: 100%;
+        background-color: black;
+    }
     .acceil h1{
         font-size: 40px;
         color: rgb(146, 117, 226);
@@ -90,6 +97,11 @@ nav ul li a{
     
 }
 @media screen and (max-width:500px){
+    body{
+        width:100%;
+      height: 100%;
+        background-color: black;
+    }
     .acceil h1{
         font-size: 30px;
         color: rgb(146, 117, 226);
