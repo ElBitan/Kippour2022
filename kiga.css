@@ -80,3 +80,29 @@ nav ul li a{
         background-color: black;
     }
 }
+@media screen and (max-width:900px){
+    .acceil h1{
+        font-size: 40px;
+        color: rgb(146, 117, 226);
+        font-weight: 800;
+    }
+    .acceil span{
+        font-size: 40px;
+        color: rgb(22,71,186);
+        font-weight: 800;
+    }
+    
+}
+@media screen and (max-width:500px){
+    .acceil h1{
+        font-size: 30px;
+        color: rgb(146, 117, 226);
+        font-weight: 800;
+    }
+    .acceil span{
+        font-size: 30px;
+        color: rgb(22,71,186);
+        font-weight: 800;
+    }
+    
+}
